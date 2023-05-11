@@ -28,7 +28,7 @@ Portals now can’t spawn twice in 1 spot, because the script now knows when a l
 
 ![PortalResult2](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/6139470f-7127-466b-a386-0af5395cb58d)
 ![PortalResult](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/17af15cf-2845-461f-8dbe-5a4e7f8d8702)
-![pasted image 2](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/ac7739b0-2dc8-4c4d-a16a-a74cf361a5c0)
+
 
 
 ## What is the quality of the result?
