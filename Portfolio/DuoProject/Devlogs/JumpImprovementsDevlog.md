@@ -12,9 +12,12 @@ In this game we make use of the corgi engine, corgi has a script that is specifi
 
 Our jump power has gone up which gives the player more height per jump. This way the jump should match the players expectations better and not feel as spongy.
 
+
+
 ## What is the quality of the result?
 
 The new jump has been tested at the second playtest of our game. The people who had played our game before told me that the jump felt much better and matched their expectations. We were also able to see this in the form we prepared.
+![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/06372ef7-73ba-4ba1-9609-520797492bf4)
 
 (Showroom, Peer Review + Field, Observation & survey)
 
