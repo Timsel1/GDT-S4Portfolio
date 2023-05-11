@@ -1,4 +1,4 @@
-How can I make my portals more dynamic and make sure that only one can spawn at a certain location?
+# How can I make my portals more dynamic and make sure that only one can spawn at a certain location?
 
 In the game that me and the person im working with are working on, we wanted enemies to spawn from portals. These portals should spawn a set amount of enemies and should be in different locations each playthrough. Right now there is no way to change the amount of enemies you want to spawn without changing the code and 2 portals can spawn in 1 location. These things need to be fixed.
 How did I solve this?
@@ -9,7 +9,7 @@ To solve the problem of multiple portals spawning in 1 location, I first had to 
 
 (Workshop, Prototyping)
 
-What was the result?
+## What was the result?
 
 I can now change the amount of portals and enemies I want to spawn without changing the script.
 
@@ -17,13 +17,13 @@ I can now change the amount of portals and enemies I want to spawn without chang
 Portals now can’t spawn twice in 1 spot, because the script now knows when a location is in use.
 
 
-What is the quality of the result?
+## What is the quality of the result?
 
 I showed the result to my duo partner again, and let the game load the portals many times without fail.
 
 (Showroom, Peer Review)
 
 
-What is the next step now that I have this result?
+## What is the next step now that I have this result?
 
 With the enemy spawns working correctly, we can use them in our levels.
