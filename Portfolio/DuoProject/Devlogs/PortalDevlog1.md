@@ -4,6 +4,7 @@ In the game that me and the person im working with are working on, we wanted ene
 ## How did I solve this?
 I knew that I wanted to do this by having multiple set locations where I can instantiate the portals. I had already found a tutorial that showed me how to instantiate objects in the locations I wanted.
 (Library, Design Pattern Research) 
+
 Source:
 https://www.youtube.com/watch?v=NWNH9XRtuIc
 
