@@ -8,6 +8,12 @@ To make the portals more dynamic I used serialized fields and new properties so 
 
 To solve the problem of multiple portals spawning in 1 location, I first had to look at why this was possible (Field, Problem Analysis or Workshop, Root Cause Analysis). This was because there were no checks to see if a portal was already spawned in a certain location. The first thing I wanted to test is if I could keep a small list of portal spawn points that were already in use. To do this I had to refactor my code. 
 
+![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/4dcaf76d-1f2b-4938-9887-1bd8df63d773)
+![pasted image 1](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/1f33a066-35f7-4029-9265-9ae531f06e9d)
+![pasted image 2](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/c81324be-b473-436b-b47a-4e704d71246f)
+
+
+
 (Workshop, Prototyping)
 
 ## What was the result?
