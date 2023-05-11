@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=NWNH9XRtuIc
 I made a scene with 3 spawn points and used a random number generator to pick one of the 3 points to instantiate an object. 
 (Workshop, Prototyping)
 
-[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+! [alt text](https://lh4.googleusercontent.com/JzpB2LPamc6yX0QtCVXecNJJWJQFQ_sgqjDF8DoA9o9duFoLF9pjhZyHr2Wf77m3zn55o5z4Uh5RWuGfygAUsrk8TvugYwz0ozsoMwLxcYWFbmfL_gWXW48oy6YIkDsXECNH9203OWitTvSJW8TyBFWjZOmJCKfSu6wRtRPATnpF962Wt1wfzKVJ6ZR9eQ)
 
 ## What was the result?
 The first version of my script Could spawn 1 portal In a random location, like I wanted, as shown in the GIF.
