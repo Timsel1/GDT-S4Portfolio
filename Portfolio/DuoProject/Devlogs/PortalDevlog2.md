@@ -20,8 +20,15 @@ To solve the problem of multiple portals spawning in 1 location, I first had to 
 
 I can now change the amount of portals and enemies I want to spawn without changing the script.
 
+![pasted image 3](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/c936b653-a068-47c1-b14f-18885a01269f)
+![pasted image 4](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/dbe2c5e0-e51a-4ac1-8e84-8b07f9d16f17)
+
 
 Portals now can’t spawn twice in 1 spot, because the script now knows when a location is in use.
+
+![PortalResult2](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/6139470f-7127-466b-a386-0af5395cb58d)
+![PortalResult](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/17af15cf-2845-461f-8dbe-5a4e7f8d8702)
+![pasted image 2](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/ac7739b0-2dc8-4c4d-a16a-a74cf361a5c0)
 
 
 ## What is the quality of the result?
