@@ -15,6 +15,8 @@ I made a scene with 3 spawn points and used a random number generator to pick on
 ## What was the result?
 The first version of my script Could spawn 1 portal In a random location, like I wanted, as shown in the GIF.
 
+![PortalV1](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/7e6e692d-3193-4199-8ae5-fb50b134699f)
+
 [Gif](https://lh4.googleusercontent.com/JzpB2LPamc6yX0QtCVXecNJJWJQFQ_sgqjDF8DoA9o9duFoLF9pjhZyHr2Wf77m3zn55o5z4Uh5RWuGfygAUsrk8TvugYwz0ozsoMwLxcYWFbmfL_gWXW48oy6YIkDsXECNH9203OWitTvSJW8TyBFWjZOmJCKfSu6wRtRPATnpF962Wt1wfzKVJ6ZR9eQ)
 
 ## What is the quality of the result?
