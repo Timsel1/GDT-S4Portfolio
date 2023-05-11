@@ -12,7 +12,7 @@ In this game we make use of the corgi engine, corgi has a script that is specifi
 
 Our jump power has gone up which gives the player more height per jump. This way the jump should match the players expectations better and not feel as spongy.
 
-
+![Gif (te groot voor md)](https://lh3.googleusercontent.com/yLCVKg96RgVh3-qVGKKskrXrGAnKd8GMyu7-Qm2U8dwhUehH2pSK_2CAc5gTovocYCVghCDLf0RbHEwm4bhlFvxG7uaQXH-0Jor2qXKiA-aQw0Xs2QGn0ayoIYPPcMbCas6bzdcVr534stidHuzcQgQasZxZO8bkOFKMre7ktJziTbhCZlgXV0Wn9s-T8g)
 
 ## What is the quality of the result?
 
