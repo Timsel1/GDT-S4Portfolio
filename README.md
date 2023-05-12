@@ -1,4 +1,5 @@
 # GDT-S4 Portfolio
+This portfolio was originally uploaded to fontys' portfolio tool. Because of problems sharing my portfolio with this tool, I had to put everything on github. As a result some gifs couldn't be added and some files have to be downloaded before they can be viewed.
 
 ## Table of Contents
 - ### [Game Pie](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/GamePie)
