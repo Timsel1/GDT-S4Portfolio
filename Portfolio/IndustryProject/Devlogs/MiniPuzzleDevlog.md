@@ -23,8 +23,6 @@ We wanted to make the players feel more immersed in the game, like they were act
 
 ![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/fefe453f-6c60-461f-a19f-0424ce44ee68)
 
-![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/da447cc9-b888-494f-8756-70b9d284a394)
-
 ## What is the next step now that I have this result?
 
 I will test the game with the target audience to see if they think these puzzles are entertaining to them and make them feel like they are actually in an escape room.
