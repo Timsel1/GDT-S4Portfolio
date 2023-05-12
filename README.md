@@ -1,7 +1,7 @@
 # GDT-S4 Portfolio
 
 ## Table of Contents
-- [Duo Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject)
+- ### [Duo Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject)
 
   - [Pitch PowerPoint](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Pitch.pptx)
   - [One pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/One%20Pager.pdf)
@@ -18,7 +18,7 @@
     - [Sound Design](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/SoundDesignDevlog.md)
     - [UI design](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/UIDesignDevlog.md)
 
-- [Industry Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/IndustryProject)
+- ### [Industry Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/IndustryProject)
 
   - [Client debriefing](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Client%20debriefing.pdf)
   - [Feedback first playable prototype](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Feedback%20first%20playable.pdf)
