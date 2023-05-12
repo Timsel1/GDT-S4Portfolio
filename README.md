@@ -1,6 +1,12 @@
 # GDT-S4 Portfolio
 
 ## Table of Contents
+- ### [Game Pie](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/GamePie)
+
+  - [One pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/GamePie/GamePie%20One%20Page%20Design%20Document%20Group%203.pdf)
+  - [Ten pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/GamePie/Mind_abduction_10_pager.pdf)
+  - [User test responses](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/GamePie/Responses.xlsx)
+
 - ### [Duo Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject)
 
   - [Pitch PowerPoint](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Pitch.pptx)
