@@ -20,7 +20,7 @@ After this I needed to add a check to the division method. I had to check which 
 
 For the subtraction I only had to check which of the 2 numbers was biggest and then put them in the correct order, this way it is impossible to end up with a negative number.
 
-####Automation numbers for plus and minus can be increased
+#### Automation numbers for plus and minus can be increased
 
 Since the addition and subtractions were too easy, I increased the values of the max numbers that could be generated.
 
