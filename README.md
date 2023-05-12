@@ -1,6 +1,7 @@
 # GDT-S4 Portfolio
 
-## [Duo Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject)
+## Table of Contents
+- [Duo Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject)
 
   - [Pitch PowerPoint](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Pitch.pptx)
   - [One pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/One%20Pager.pdf)
