@@ -22,7 +22,7 @@ I have shown this solution to my group members and they have validated that this
 
 (Lab, Unit Test - Showroom, Peer Review)
 
-![sum generator](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/884e81af-8476-4cba-88f5-1cb44619fa79)
+![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/cb933315-c7aa-44a4-a24d-8a78c54a909c)
 
 ## What is the next step now that I have this result?
 
