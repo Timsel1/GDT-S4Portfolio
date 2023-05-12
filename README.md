@@ -7,7 +7,7 @@
 #### [Ten pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Ten%20Pager.pdf)
 #### [Ten pager final version](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Ten%20Pager%20Final%20Version.pdf)
 
-### [Devlogs](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject/Devlogs)
+### - [Devlogs](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/DuoProject/Devlogs)
   - [Dash](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/DashDevlog.md)
   - [Jump improvements](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/JumpImprovementsDevlog.md)
   - [Level Design](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/LevelDesignDevlog.md)
