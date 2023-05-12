@@ -17,3 +17,24 @@
     - [Portal 2](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/PortalDevlog2.md)
     - [Sound Design](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/SoundDesignDevlog.md)
     - [UI design](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Devlogs/UIDesignDevlog.md)
+
+- [Industry Project](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/IndustryProject)
+
+  - [Client debriefing](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Client%20debriefing.pdf)
+  - [Feedback first playable prototype](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Feedback%20first%20playable.pdf)
+  - [Pitch Presentation](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Ten%20Pager.pdf)
+  - [Moodboard](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/DuoProject/Ten%20Pager%20Final%20Version.pdf)
+  - [One pager](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/One%20Page%20Industry%20project.pdf)
+  - [Retrospective](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Retrospective.pdf)
+  - [Final presentation](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Sprint4.pptx)
+  - [Transcript interview Elise van Dingenen](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Transcript%20interview%2013-12.pdf)
+
+  - [Devlogs](https://github.com/Timsel1/GDT-S4Portfolio/tree/main/Portfolio/IndustryProject/Devlogs)
+    - [Adjustment sum minigame](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/AdjustmentSumMinigameDevlog.md)
+    - [Encourage working together](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/EncourageWorkingTogetherDevlog.md)
+    - [Important math topics](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/ImportantMathTopicsDevlog.md)
+    - [Metric conversion system](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/MetricConversionSystemDevlog.md)
+    - [Metric minigame adjustment](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/MetricMinigameAdjustmentDevlog.md)
+    - [Mini puzzle](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/MiniPuzzleDevlog.md)
+    - [Sum generation](https://github.com/Timsel1/GDT-S4Portfolio/blob/main/Portfolio/IndustryProject/Devlogs/SumGenerationDevlog.md)
+
