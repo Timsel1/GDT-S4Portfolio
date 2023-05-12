@@ -7,7 +7,9 @@ After the workshops I got about sound design and the assignment I made for this 
 
 (Library, Design Pattern Research)
 
-    source: https://www.youtube.com/watch?v=EaTqtKOf1gk 
+   source: 
+    
+    https://www.youtube.com/watch?v=EaTqtKOf1gk 
 
 
 
