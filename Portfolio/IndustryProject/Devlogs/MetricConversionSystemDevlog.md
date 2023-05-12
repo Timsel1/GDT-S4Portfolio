@@ -12,11 +12,17 @@ I asked my group to review my code and to ask what would be the next best step. 
 
 (Showroom, Peer Review)
 
+![pasted image 0](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/5edb79e0-b74d-4db6-8e19-83ddf3b8530a)
+
 This way of solving the problem, made making this system a lot easier, but kilometer and millimeter now couldn’t be an answer to the sum since there is nothing to multiply or divide by 10 to get to the next/previous step. To solve this I made 2 more options, 1 for kilometer and 1 for millimeter.
+
+![1](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/2a0faf1d-916e-4ee0-8e7a-7855ede07205)
 
 ## What is the result?
 
 All generated values and the answer are now converted to metrics and will be shown correctly on the buttons.
+
+![Metric](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/23e6b084-c2ed-44ca-8dae-d070dc69405a)
 
 ## What is the quality of the result?
 
