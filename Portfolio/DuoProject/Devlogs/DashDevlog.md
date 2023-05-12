@@ -3,6 +3,7 @@
 During our first playtest players had control over their character while being in the air, however there was no way to quickly change direction and keep momentum while being in the air if you were out of jumps. This caused players to get hit by enemy attacks because they fell into them and had no way to dodge them. We had prepared a form for this playtest to see if people would like more movement mechanics and if so, what they would like to see. Dash was the most popular answer.
 
 (Showroom, Peer Review + Field, Observation & survey)
+
 ![pasted image 1](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/71eef1f2-7b5f-46e7-9900-1ad24ae57076)
 
 ## How did I solve this?
@@ -12,6 +13,7 @@ I already had a working dash script from another game I was working on so I want
 (Workshop, Prototyping)
 
 Since we are using corgi engine I decided to look up if there was a dashing script in the corgi engine and there is. So I decided to use this script. It was easy in use and I only had to look at 3 values, which were Dash Distance, Dash Force and Dash Cooldown.
+
 ![1](https://github.com/Timsel1/GDT-S4Portfolio/assets/90602424/fefe621c-3dfb-4740-88b0-9d5ee8b26d96)
 
 Source(s):
